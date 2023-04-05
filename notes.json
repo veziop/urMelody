@@ -1,0 +1,74 @@
+[
+  {
+    "label": "C",
+    "label_solfege": "Do",
+    "chromatic_before": "B",
+    "chromatic_after": "C#"
+  },
+  {
+    "label": "C#",
+    "label_solfege": "Do#",
+    "chromatic_before": "C",
+    "chromatic_after": "D"
+  },
+  {
+    "label": "D",
+    "label_solfege": "Re",
+    "chromatic_before": "C#",
+    "chromatic_after": "D#"
+  },
+  {
+    "label": "D#",
+    "label_solfege": "Re#",
+    "chromatic_before": "D",
+    "chromatic_after": "E"
+  },
+  {
+    "label": "E",
+    "label_solfege": "Mi",
+    "chromatic_before": "D#",
+    "chromatic_after": "F"
+  },
+  {
+    "label": "F",
+    "label_solfege": "Fa",
+    "chromatic_before": "E",
+    "chromatic_after": "F#"
+  },
+  {
+    "label": "F#",
+    "label_solfege": "Fa#",
+    "chromatic_before": "F",
+    "chromatic_after": "G"
+  },
+  {
+    "label": "G",
+    "label_solfege": "Sol",
+    "chromatic_before": "F#",
+    "chromatic_after": "G#"
+  },
+  {
+    "label": "G#",
+    "label_solfege": "Sol#",
+    "chromatic_before": "G",
+    "chromatic_after": "A"
+  },
+  {
+    "label": "A",
+    "label_solfege": "La",
+    "chromatic_before": "G#",
+    "chromatic_after": "A#"
+  },
+  {
+    "label": "A#",
+    "label_solfege": "La#",
+    "chromatic_before": "A",
+    "chromatic_after": "B"
+  },
+  {
+    "label": "B",
+    "label_solfege": "Si",
+    "chromatic_before": "A#",
+    "chromatic_after": "C"
+  }
+]
